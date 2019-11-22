@@ -2,8 +2,8 @@
   "article": [
     {
       "id": 1,
-      "title": "Our first help articel",
-      "description": "new famouse articel description",
+      "title": "Our first help article",
+      "description": "new famouse article description",
       "type": "documentation",
       "facets": [
         {
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "title": "Another famouse article",
-      "description": "new cool articel description",
+      "description": "new cool article description",
       "type": "help",
       "facets": [
         {
@@ -34,8 +34,8 @@
     },
     {
       "id": 3,
-      "title": "Great help articel",
-      "description": "new famouse articel description",
+      "title": "Great help article",
+      "description": "new famouse article description",
       "type": "documentation",
       "facets": [
         {
@@ -45,8 +45,8 @@
     },
     {
       "id": 4,
-      "title": "Fuck yeah help articel",
-      "description": "new cool articel description",
+      "title": "Fuck yeah help article",
+      "description": "new cool article description",
       "type": "documentation",
       "facets": [
         {
@@ -64,7 +64,83 @@
     {
       "id": 5,
       "title": "We need help",
-      "description": "new famouse articel description",
+      "description": "new famouse article description",
+      "type": "cool stuff",
+      "facets": [
+        {
+          "name": "facet3"
+        },
+        {
+          "name": "facet6"
+        },
+        {
+          "name": "facet7"
+        },
+        {
+      "id": 6,
+      "title": "Another help article",
+      "description": "new famouse article description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        },
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+        
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Another famouse article",
+      "description": "new cool article description",
+      "type": "help",
+      "facets": [
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Great help article that needs to be published",
+      "description": "new famouse article description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fuck yeah another help article",
+      "description": "new cool fucking cool article description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        },
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+        
+      ]
+    },
+    {
+      "id": 10,
+      "title": "We need help yo",
+      "description": "new famouse article description",
       "type": "cool stuff",
       "facets": [
         {
