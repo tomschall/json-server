@@ -1,0 +1,83 @@
+{
+  "article": [
+    {
+      "id": 1,
+      "title": "Our first help articel",
+      "description": "new famouse articel description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        },
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Another famouse article",
+      "description": "new cool articel description",
+      "type": "help",
+      "facets": [
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Great help articel",
+      "description": "new famouse articel description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Fuck yeah help articel",
+      "description": "new cool articel description",
+      "type": "documentation",
+      "facets": [
+        {
+          "name": "facet1"
+        },
+        {
+          "name": "facet2"
+        },
+        {
+          "name": "facet3"
+        }
+        
+      ]
+    },
+    {
+      "id": 5,
+      "title": "We need help",
+      "description": "new famouse articel description",
+      "type": "cool stuff",
+      "facets": [
+        {
+          "name": "facet3"
+        },
+        {
+          "name": "facet6"
+        },
+        {
+          "name": "facet7"
+        }
+        
+      ]
+    }
+  ]
+}
